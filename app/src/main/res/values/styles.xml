@@ -1,7 +1,0 @@
-<resources>
-    <!-- Estilos personalizados -->
-    <style name="CustomButtonStyle" parent="Widget.MaterialComponents.Button">
-        <item name="android:textColor">@color/white</item>
-        <item name="android:backgroundTint">@color/design_default_color_on_primary</item>
-    </style>
-</resources>

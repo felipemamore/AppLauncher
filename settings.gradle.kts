@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "My Launcher"
+rootProject.name = "TesteViews"
 include(":app")
  

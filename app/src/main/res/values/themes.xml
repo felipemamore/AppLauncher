@@ -1,10 +1,9 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Tema Base -->
-    <style name="Base.Theme.MyLauncher" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Personalize seu tema claro/escuro aqui -->
-        <item name="android:windowBackground">@color/white</item>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TesteViews" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
-    <!-- Tema Principal -->
-    <style name="Theme.MyLauncher" parent="Base.Theme.MyLauncher" />
+    <style name="Theme.TesteViews" parent="Base.Theme.TesteViews" />
 </resources>
